@@ -1,4 +1,4 @@
-package com.ifcasoftware.urban;
+package com.ifcasoftware.synthesis;
 
 import com.facebook.react.ReactActivity;
 

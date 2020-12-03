@@ -1132,7 +1132,7 @@ export default class Intro extends React.Component {
                 {!this.state.isLoaded ? (
                   <ActivityIndicator color="#fff" />
                 ) : (
-                  <Text style={styles.signInBtnText}>Sign in</Text>
+                  <Text style={styles.signInBtnText}>Sign in Synthesis</Text>
                 )}
               </Button>
 
